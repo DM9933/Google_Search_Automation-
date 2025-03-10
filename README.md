@@ -28,5 +28,5 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/GoogleSearchAutomation.git
+git https://github.com/DM9933/Google_Search_Automation-.git
 cd GoogleSearchAutomation
