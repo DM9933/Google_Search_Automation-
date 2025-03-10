@@ -74,8 +74,8 @@ GoogleSearchAutomation/
 3. Extracts keywords from column C (Index 2) in the Excel sheet.
 4. Searches Google for each keyword.
 5. Retrieves autocomplete suggestions and finds:
-    The longest suggestion.
-    The shortest suggestion.
+    - The longest suggestion.
+    - The shortest suggestion.
 6. Writes results back to column D & E in the Excel sheet.
 Closes the browser after execution.
 ## Contributing
