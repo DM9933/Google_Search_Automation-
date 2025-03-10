@@ -77,9 +77,12 @@ GoogleSearchAutomation/
     - The longest suggestion.
     - The shortest suggestion.
 6. Writes results back to column D & E in the Excel sheet.
-Closes the browser after execution.
+7. Closes the browser after execution.
 ## Contributing
 1. Fork the repository.
 2. Create a feature branch (feature-branch-name).
 3. Commit your changes.
 4. Open a Pull Request.
+
+## Watch Video
+![Video](https://github.com/DM9933/Google_Search_Automation-/blob/main/Assignment1Q1%20(online-video-cutter.com).mp4)
